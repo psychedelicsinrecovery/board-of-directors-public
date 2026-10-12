@@ -47,4 +47,9 @@ This repository is a **filtered mirror** of the Board's private working repo, pu
 private. Commits here keep their original authors, because the mirror is made by filtering the private history rather
 than by copying files. Please don't open pull requests here; use `/board` instead.
 
+## 📄 License
+- 💻 **Code:** MIT, see [`LICENSE`](LICENSE)
+- 📝 **Written content** (docs, changelog and library prose, READMEs): CC BY-SA 4.0, see [`LICENSE-CONTENT`](LICENSE-CONTENT)
+- 🏷️ **Names, logos and marks:** not covered by either license, see [`TRADEMARKS.md`](TRADEMARKS.md)
+
 <sub>PIR® and Psychedelics In Recovery™ are marks of Psychedelics In Recovery, a 501(c)(3) nonprofit.</sub>
