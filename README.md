@@ -22,7 +22,7 @@ Any service member or committee can send the Board a proposal, a question or a r
 |---|---|
 | 💬 **In Discord** | Type `/board`. Pick *idea / feedback* for a proposal, or *problem / request* for anything that needs a decision. A private thread opens with you and the Board. |
 | 🌐 **On the web** | The [web helpdesk](https://psychedelicsinrecovery.github.io/alex-desk-public/portal.html#board) → **BoardDesk**. Sign in with a one-time email link; no Discord needed. |
-| 🗂️ **From a committee** | Draft it in your committee's private repo under `proposals/` (work in progress goes in `proposals/drafts/`). Finished proposals are collected into the Board's private inbox automatically every night. |
+| 🗂️ **From a committee** | Draft it in your committee's private repo under `proposals/` as a numbered folder (`NNN-name/README.md`; work in progress goes in `proposals/drafts/`). Every night the Board's inbox lists finished proposals **by link**; Board members read them in the committee repo, so there is one copy of every document. |
 
 Either way, it lands in one place, so nothing gets lost in a chat thread between meetings.
 
